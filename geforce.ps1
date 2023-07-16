@@ -1,0 +1,1 @@
+Invoke-WebRequest https://us.download.nvidia.com/GFE/GFEClient/3.27.0.112/GeForce_Experience_v3.27.0.112.exe -OutFile c:\GeForce_Experience_v3.27.0.112.exe
