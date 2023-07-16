@@ -1,1 +1,1 @@
-choco install adobereader python jre8 winrar qbittorrent vlc gsudo notepadplusplus
+choco install adobereader python jre8 winrar qbittorrent vlc gsudo notepadplusplus bitwarden
