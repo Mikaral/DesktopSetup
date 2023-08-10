@@ -1,1 +1,1 @@
-choco install adobereader python jre8 winrar qbittorrent vlc gsudo notepadplusplus bitwarden github-desktop autohotkey discord firefox vscode spotify skype
+choco install okular python jre8 7zip qbittorrent vlc gsudo bitwarden github-desktop autohotkey discord firefox vscode skype
